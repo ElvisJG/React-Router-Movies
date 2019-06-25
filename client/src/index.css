@@ -44,20 +44,23 @@ body {
   margin: 0 10px;
 }
 .saved-active {
-  color: blue;
+  color: lightskyblue;
   border: 1px solid grey;
   padding: 5px;
+  text-decoration: none;
 }
 .save-wrapper {
   position: relative;
   width: 75%;
   margin: 1rem auto;
+  text-decoration: none;
 }
 .save-button {
   position: absolute;
   top: 25px;
   right: 25px;
   border: 1px solid grey;
+  text-decoration: none;
   padding: 5px 10px;
   background-color: lightseagreen;
 }
